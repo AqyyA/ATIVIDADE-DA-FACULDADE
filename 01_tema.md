@@ -1,4 +1,4 @@
-# Etapa dark patterns em plataformas de apostas digitais
+# dark patterns em plataformas de apostas digitais
 
 ## Solicitação
 
@@ -7,8 +7,8 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: `[Alan Silva Araujo - Arthur Gomes De Jesus - Guilherme Arcanjo Barra]`
+- Data: `[24/09/2026]`
 
 ## Preenchimento
 

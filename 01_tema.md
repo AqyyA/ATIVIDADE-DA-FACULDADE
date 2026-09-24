@@ -58,6 +58,6 @@ Justificativa: conforme texto acima.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[Arthur Gomes de Jesus]`| `[Definição do tema, delimitação do escopo e elaboração da justificativa (Etapa 1)]` |  
-| `[Alan Silva Araujo]´ | `[Levantamento do referencial teórico (dark patterns, psicologia do jogo e regulação de apostas digitais)]´
-| `[Guilherme Arcanjo Barra]´ | `[Construção da metodologia, cronograma e revisão/formatação final do documento]´
+| [Arthur Gomes de Jesus]| [Definição do tema, delimitação do escopo e elaboração da justificativa (Etapa 1)] |  
+| [Alan Silva Araujo] | [Levantamento do referencial teórico (dark patterns, psicologia do jogo e regulação de apostas digitais)]
+| [Guilherme Arcanjo Barra] | [Construção da metodologia, cronograma e revisão/formatação final do documento]

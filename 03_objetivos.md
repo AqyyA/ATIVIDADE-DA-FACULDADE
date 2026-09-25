@@ -23,7 +23,7 @@ Analisar, com base na literatura científica, os padrões de design persuasivo (
 
 | Elemento | Texto |
 |---|---|
-| Problema |Quais padrões de design persuasivo (dark patterns) e mecanismos de reforço comportamental são identificados na literatura científica como mais recorrentes em plataformas de jogos de azar digitais, e de que forma esses elementos contribuem para a indução do comportamento compulsivo de jogo?|
+| Problema |padrões de design persuasivo (dark patterns) que contribuem para a indução do comportamento compulsivo de jogo|
 | Objetivo geral |Analisar, com base na literatura científica, os padrões de design persuasivo (dark patterns) e os mecanismos de reforço comportamental empregados em plataformas de jogos de azar digitais, relacionando-os à indução do comportamento compulsivo de jogo.|
 | Resultado esperado | O artigo deverá apresentar uma síntese organizada dos principais dark patterns e mecanismos de reforço comportamental documentados na literatura sobre jogos de azar digitais, evidenciando sua relação com o comportamento compulsivo e apontando diretrizes de design ético como contraponto. |
 

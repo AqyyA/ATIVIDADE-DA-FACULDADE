@@ -52,12 +52,12 @@ e a lacuna mais obvia e que nenhum dos três analisa plataformas brasileiras.]`
 
 ## Considerações finais
 
-`[Para responder ao problema, as pesquisas mostram que o mais comum é encontrar opções já marcadas, dificuldade para tirar o dinheiro ou cancelar a conta, avisos de urgência e a sensação de 'quase ganho'. A gente entende que esses truques funcionam juntos: alguns empurram a pessoa para apostar mais, outros deixam difícil ir embora e o 'quase ganhei' dá vontade de continuar. O estudo tem limites: usamos só três artigos, a busca não seguiu um método rígido e nenhum trabalho fala do Brasil. Como próximo passo, vale a pena olhar, usando só dados públicos e sem apostar nada, se esses padrões aparecem em jogos tipo o do Tigrinho.   ]`
+`[Para responder ao problema, as pesquisas mostram que o mais comum é encontrar opções já marcadas, dificuldade para tirar o dinheiro ou cancelar a conta, avisos de urgência e a sensação de 'quase ganho'. A gente entende que esses truques funcionam juntos: alguns empurram a pessoa para apostar mais, outros deixam difícil ir embora e o 'quase-vitória' dá vontade de continuar. O estudo tem limites: usamos só três artigos, a busca não seguiu um método rígido e nenhum trabalho fala do Brasil. Como próximo passo, vale a pena olhar, usando só dados públicos e sem apostar nada, se esses padrões aparecem em jogos tipo o do Tigrinho.   ]`
 
 ## Resumo
 
 `[Jogos como o do Tigrinho cresceram muito no Brasil, mas ainda há pouca pesquisa sobre como eles são projetados. Este estudo analisou três artigos para entender as armadilhas de design e os truques usados em apostas online para manter as pessoas jogando.
-Os truques mais comuns encontrados foram: opções de aposta já marcadas, dificuldade para tirar o dinheiro, avisos que geram pressa e a sensação de "quase ganhei". O grande problema é que ainda faltam pesquisas focadas diretamente nas plataformas que rolam no Brasil.]`
+Os truques mais comuns encontrados foram: opções de aposta já marcadas, dificuldade para tirar o dinheiro, avisos que geram pressa e a sensação de "quase-vitória". O grande problema é que ainda faltam pesquisas focadas diretamente nas plataformas que rolam no Brasil.]`
 
 ## Referências
 

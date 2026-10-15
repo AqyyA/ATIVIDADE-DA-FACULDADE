@@ -47,15 +47,17 @@ as pessoas avaliaram essa "quase-vitória" como algo bom e positivo, e não como
 
 ### Síntese crítica
 
-`[Apresente tendências, convergências, divergências e lacunas.]`
+`[As 3 pesquisas disseram que o design das plataformas não é neutro: interfaces e mecânicas induzem a que o apostador não pare. Dois falam sobre a interface, e o ultimo mede o efeito de uma mecanica só; os estudos não medem como as pessoas agem de verdade e os experimentos não testam redes e sites reais. Além disso, a galera nem concorda na definição do que é um dark pattern.
+e a lacuna mais obvia e que nenhum dos três analisa plataformas brasileiras.]`
 
 ## Considerações finais
 
-`[Responda ao problema, interprete os achados, destaque avanços e limitações e indique implicações futuras específicas.]`
+`[Para responder ao problema, as pesquisas mostram que o mais comum é encontrar opções já marcadas, dificuldade para tirar o dinheiro ou cancelar a conta, avisos de urgência e a sensação de 'quase ganho'. A gente entende que esses truques funcionam juntos: alguns empurram a pessoa para apostar mais, outros deixam difícil ir embora e o 'quase ganhei' dá vontade de continuar. O estudo tem limites: usamos só três artigos, a busca não seguiu um método rígido e nenhum trabalho fala do Brasil. Como próximo passo, vale a pena olhar, usando só dados públicos e sem apostar nada, se esses padrões aparecem em jogos tipo o do Tigrinho.   ]`
 
 ## Resumo
 
-`[Escreva por último: contexto breve, objetivo, método, principais achados e conclusão.]`
+`[Jogos como o do Tigrinho cresceram muito no Brasil, mas ainda há pouca pesquisa sobre como eles são projetados. Este estudo analisou três artigos para entender as armadilhas de design e os truques usados em apostas online para manter as pessoas jogando.
+Os truques mais comuns encontrados foram: opções de aposta já marcadas, dificuldade para tirar o dinheiro, avisos que geram pressa e a sensação de "quase ganhei". O grande problema é que ainda faltam pesquisas focadas diretamente nas plataformas que rolam no Brasil.]`
 
 ## Referências
 

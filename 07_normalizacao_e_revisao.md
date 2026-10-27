@@ -50,4 +50,3 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 |-|-|-|-|
 |Etapa 5 — Matriz de síntese|Tabela inicial de cronograma (em documento anterior) extrapolava a largura da página|Larguras de coluna recalculadas para caber dentro das margens|Guilherme Arcanjo Barra|
 |Etapa 4 — Fichamentos|Citações literais e páginas ainda não preenchidas|Pendente — requer leitura integral dos PDFs pelos responsáveis|`[a definir]`|
-|`[preencher]`|`[preencher]`|`[preencher]`|`[nome]`|

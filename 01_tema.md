@@ -7,7 +7,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[Alan Silva Araujo - Arthur Gomes De Jesus - Guilherme Arcanjo Barra]`
+- Integrantes: `[Alan Silva Araujo]`
 - Data: `[24/09/2026]`
 
 ## Preenchimento
@@ -53,11 +53,3 @@ Justificativa: conforme texto acima.
 - [x] O tema é viável.
 - [x] O recorte está claro.
 - [ ] O tema foi validado pelo professor.
-
-## Contribuições
-
-| Integrante | Atividade realizada |
-|---|---|
-| [Arthur Gomes de Jesus]| [Definição do tema, delimitação do escopo e elaboração da justificativa (Etapa 1)] |  
-| [Alan Silva Araujo] | [Levantamento do referencial teórico (dark patterns, psicologia do jogo e regulação de apostas digitais)]
-| [Guilherme Arcanjo Barra] | [Construção da metodologia, cronograma e revisão/formatação final do documento]

@@ -18,7 +18,7 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 - Curso e disciplina: Analise e desenvolvimento de sistema
 - Professor ou orientador: Isabella
 - Grupo: `[preencher]`
-- Integrantes: Arthur gomes de jesus - Alan Silva Araujo - Guilherme Arcanjo Barra
+- Integrantes: Alan Silva Araujo
 - Data de início: `[24/09/2026]`
 
 
